@@ -6,7 +6,7 @@
 
 My name is **adibkhaled** 
 
-- 🔭 I’m currently working as a Software Test automation engineer in The Netherlands
+- 🔭 I’m currently working as a Lead Test automation engineer in The Netherlands
 - 🛠 I love to explore with Software and application's.
 - 🌱 I’m currently learning C++, Robotframework
 - 👯 I’m currently busy to create a test automation framework for desktop application
