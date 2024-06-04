@@ -12,6 +12,6 @@ My name is **adibkhaled**
 - 👯 I’m currently busy to create a test automation framework for desktop application
 - 💬 You can ask me about Selenium/Cypress/JMeter or any test automation architecture patterns
 - 📫 How to reach me: adibkhaled@yahoo.com
-- ❤️ I love to play football with my friends
+- ❤️ I love to play football
 
 ![ADK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adibkhaled&show_icons=true&theme=dracula)
