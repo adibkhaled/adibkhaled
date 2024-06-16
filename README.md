@@ -8,7 +8,7 @@ My name is **adibkhaled**
 
 - 🔭 I’m currently working as a Lead Test automation engineer in The Netherlands
 - 🛠 I love to explore with Software and application's.
-- 🌱 I’m currently learning Nothing :(
+- 🌱 I’m currently learning C++
 - 👯 I’m currently busy to create a test automation framework for desktop application
 - 💬 You can ask me about Selenium/Cypress/JMeter or any test automation architecture patterns
 - 📫 How to reach me: adibkhaled@yahoo.com
