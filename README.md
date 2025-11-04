@@ -6,11 +6,11 @@
 
 My name is **adibkhaled** 
 
-- 🔭 I’m currently working as a Lead Test automation engineer in The Netherlands
+- 🔭 I’m currently working as a Lead Test Qa/QC engineer in Vimec.
 - 🛠 I love to explore with Software and application's.
-- 🌱 I’m currently learning C++
-- 👯 I’m currently busy to create a test automation framework for desktop application
-- 💬 You can ask me about Selenium/Cypress/JMeter or any test automation architecture patterns
+- 🌱 I’m currently learning C++ and Agentic AI. 
+- 👯 I develope test automation framework for desktop application using Python. 
+- 💬 You can ask me about Selenium/Cypress/JMeter/Robot Framework or any test automation architecture patterns
 - 📫 How to reach me: adibkhaled@yahoo.com
 - ❤️ I love to play football
 
