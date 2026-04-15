@@ -52,7 +52,7 @@ I'm always open to discussing:
 ### 🔗 Connect with Me
 
 - 🌐 **Portfolio:** [adibqasolutions.com](https://adibqasolutions.com/)
-- 💼 **LinkedIn:** [linkedin.com/in/adibkhaled](https://www.linkedin.com/in/adibkhaled/) - ✉️ **Work:** [adibkhaled@devon.nl](mailto:adibkhaled@devon.nl)
+- 💼 **LinkedIn:** [linkedin.com/in/adibkhaled](https://www.linkedin.com/in/adib-bin-khaled-71493021/) - ✉️ **Work:** [adibkhaled@devon.nl](mailto:adibkhaled@devon.nl)
 
 ---
 
