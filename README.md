@@ -38,7 +38,7 @@ I bridge the gap between complex software development and high-quality delivery.
 ![TOSCA](https://img.shields.io/badge/Tricentis_TOSCA-00599C?style=for-the-badge&logo=tricentis&logoColor=white)
 
 **API & Performance Testing**
-![Karate](https://img.shields.io/badge/Karate_DSL-000000?style=for-the-badge&logo=karate&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate_-000000?style=for-the-badge&logo=karate&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
 
