@@ -69,5 +69,7 @@ I'm always open to discussing:
 ---
 
 ### 📊 GitHub Stats
-![Adib's GitHub stats](https://github-readme-stats.vercel.app/api?username=adibkhaled&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibkhaled&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adibkhaled&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=adibkhaled&theme=radical" />
+</p>
